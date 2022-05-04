@@ -6,4 +6,6 @@
 ## KT2_2021
 
 [KT_AssaultIntercessors.html](KT_AssaultIntercessors.html)\
+*1. 5. 2022*\
+[KT_ChaosSpaceMarines+Cultists.html](KT_ChaosSpaceMarines+Cultists)\
 *1. 5. 2022*
