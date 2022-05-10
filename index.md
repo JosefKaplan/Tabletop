@@ -8,7 +8,7 @@
 [KT2_AssaultIntercessors<img src="./favicon.png" height="20" width="20" >](./KT_AssaultIntercessors.html)\
 [KT2_ChaosSpaceMarines+Cultists<img src="./favicon.png" height="20" width="20" >](./KT_ChaosSpaceMarines%2BCultists.html)\
 [KT2_NecronWarriors+Immortals<img src="./favicon.png" height="20" width="20" >](./KT_NecronWarriors+Immortals.html)\
-[KT2_ChaosKhorneDaemons<img src="./favicon.png" height="20" width="20" >](./KT_ChaosDaemons.html)\
+[KT2_ChaosKhorneDaemons<img src="./favicon.png" height="20" width="20" >](./KT_ChaosDaemons.html)
 
 
 
