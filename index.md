@@ -7,6 +7,7 @@
 
 [KT2_AssaultIntercessors](./KT_AssaultIntercessors.html)\
 [KT2_ChaosSpaceMarines+Cultists](./KT_ChaosSpaceMarines%2BCultists.html)\
-[KT2_NecronWarriors+Immortals](./KT_NecronWarriors+Immortals.html)
+[KT2_NecronWarriors+Immortals](./KT_NecronWarriors+Immortals.html)\
+[KT2_ChaosKhorneDaemons](.(KT_ChaosDaemons.html))
 
 
