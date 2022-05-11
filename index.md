@@ -1,5 +1,10 @@
 ## 40K_9th edition
 
+### Combat Patrol
+[40K9th_Necrons_500pts](./40K_Necrons_500pts.html)
+
+### Incursion
+
 [40K9th_Chaos_1000pts](./40K_chaos_1000pts.html)\
 [40K9th_Necrons_1000pts](./40K_Necrons_1000pts.html)
 
