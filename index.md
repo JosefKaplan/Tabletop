@@ -1,5 +1,6 @@
-# 40K_9th edition
-[Rules](https://wahapedia.ru/wh40k9ed/the-rules/core-rules/)
+# 40K
+[9thEdition_Rules](https://wahapedia.ru/wh40k9ed/the-rules/core-rules/)\
+[Boarding_Action_Rules](https://wahapedia.ru/wh40k9ed/the-rules/boarding-action-rules/)
 
 ## Lists
 
