@@ -5,7 +5,7 @@
 
 [40K9th_ArksOfOmen_Chaos_1000pts](./40K9TH-ArksOfOmen-chaos-1000pts.html)\
 [pretty_version](./40K9TH-ArksOfOmen-chaos-1000pts_pretty.html)\
-[newRecruit_Roster](https://www.newrecruit.eu/app/list/EvoVT)
+[newRecruit_Roster](https://www.newrecruit.eu/app/list/RsUHv)
 
 
 
