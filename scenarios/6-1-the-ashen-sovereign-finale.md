@@ -1,0 +1,106 @@
+---
+title: 6.1 The Ashen Sovereign (Finale)
+tags:
+  - Scenario
+---
+![Scene](https://lh3.googleusercontent.com/pw/AP1GczMS4OFLiFDNY8ZdweSk9nxIjoN0AnZDP7rZzK1KjxdTOr90RqfW1BvdBNEw4q3QMMOvcv_7V6GjITE7bkLnpBYemi7r9uoCGODbRiATaG6GacFS4zk=w2400)
+
+## Narrative
+
+Half of two armies lie broken in the wastes, torn apart when the last seal gave way. The two weakened factions have thrown in together against the victor of the Final Seal, whose host stands whole — one unbowed army of 2000pts against two ragged warbands of 1000pts apiece, bound by a pact neither intends to honour a heartbeat longer than necessary.
+
+Above them, the obsidian mountain has split open, and in the crater stands the Ashen Vault — the heart of the prison, the last thing between the Realms and the Sovereign of Ash.
+
+Whoever holds the Vault when the sky finishes falling decides what Vhar'Ghul becomes: a god's gift, a furnace-heart, a stolen hoard — or a cage, resealed.
+
+This is the last battle. Nobody is saving anything for tomorrow.
+
+## Battleplan
+![Battleplan](https://lh3.googleusercontent.com/pw/AP1GczNIxKLP1a3IXo70zTzhROzqh5H6F4IEoPljjMqQakj7o2VywdRoHM28SkMSp3xbeskCoQuwEzVSj1udFgRsStDsEwAOkSiWw86Las10ap76NpQC4lY=w2400)
+
+Wahapedia (4e battleplan — Convergence of Fate, Conquest Unbound): [https://wahapedia.ru/aos3/the-rules/conquest-unbound/#Convergence-of-Fate](https://wahapedia.ru/aos3/the-rules/conquest-unbound/#Convergence-of-Fate)
+
+**Overview:** Multiple armies march upon a strange monolith, but only one can be the victor this day. This multi-player scenario uses the Triumph and Treachery rules and requires a minimum 44" x 60" battlefield.
+
+**Army Points:** 2000pts total per side. The winner of Scenario 5 fields a single 2000pts army; the other two players, their forces having been savaged by Vhar'Ghul's backlash at the end of Scenario 5, each field 1000pts and fight as allies against the Scenario 5 victor.
+
+**Army Composition:** Each player selects an army and divides it into a vanguard and reinforcements contingent, with at least one unit in the vanguard for each unit in reinforcements. Faction terrain features are prohibited. The general may join either contingent.
+
+**Battlefield Setup:** The player winning the initial roll-off establishes terrain, with one piece designated as the "monolith" in the center — this terrain feature can be controlled by players.
+
+**Deployment:** After a roll-off determines territories and the northern edge, players alternate placing vanguard units one at a time within their territory, maintaining 9" distance from opponents' zones.
+
+**Reinforcements:** Each player deploys their reinforcements contingent at the conclusion of their second movement phase, positioned entirely within territory, 6" from the battlefield edge, and 9" from enemy units.
+
+**Battle Duration:** The scenario runs for 4 battle rounds.
+
+**Victory Conditions:**
+- One player controlling the monolith = major victory
+- No control but closest model = minor victory
+- Multiple players tied for closest = draw
+
+(Excellent as a multiplayer game)
+
+If you prefer official battleplans only:
+
+Use Focal Points or Power in Numbers as the framework and simply add narrative rules.
+
+## Finale Narrative Rules
+
+At the center of the battlefield is:
+
+The Ashen Vault
+
+At the end of every battle round:
+
+Roll D6
+
+Add +1 for each ritual reward a player possesses
+
+On a total of 8+:
+
+The prison opens.
+
+
+## When the Prison Opens
+
+Vhar'Ghul emerges.
+
+Not as a model.
+
+As a battlefield effect.
+
+For the remainder of the game:
+
+Every unit suffers D3 mortal wounds on a natural 1 when running or charging.
+
+Wizards gain +1 to cast.
+
+Priests gain +1 to chant.
+
+Heroes count as +2 control.
+
+Any Hero at Mighty rank or higher becomes Legendary for this battle — Vhar'Ghul's power surges through them as the prison breaks, granting the 4th (final) Path ability.
+
+The battlefield descends into chaos.
+
+<details>
+<summary>⚠️ Epilogue — read only when the campaign is decided</summary>
+
+<!-- image slot — generate the epilogue matching the actual outcome from Ashen Sovereign - Image Prompts (The Ascension / The Furnace-Heart / The Great Theft / The Torn Ritual), then replace this comment with: ![Epilogue](image-url) -->
+
+**If the Champion holds the Vault** — the victor of the Final Seal ends the campaign the way they began the finale: alone against everyone, and winning.
+
+- *Slaves to Darkness:* the champion speaks the Sovereign's true name into the Vault, and the Vault answers. Ascension — of a kind. What walks out of the crater wears the champion's face, crowned in cooling embers.
+- *Horns of Hashut:* the Sovereign's furnace-heart is chained, hauled south, and bolted into the great daemon-forges. The engines it fuels will be spoken of in horrified whispers for a thousand years.
+- *Skaven:* the prison is stolen. All of it. Gnawed hollow and dragged down into the Under-Empire piece by shrieking piece. This dooms everyone, obviously — but *later*, and that counts as a win.
+
+**If the broken alliance holds the Vault** — two hands seize the prize at once, and the ritual tears down the middle. The seals slam half-shut with Vhar'Ghul caught between: neither freed nor caged, a sovereign of ash bleeding into the wastes forever. The allies turn to face each other over the wreckage before the dust has settled.
+
+However it ends: the ash keeps falling. It always was falling. Now it falls in the shape of a crown.
+
+<!-- image slot — generate "Epilogue — Crown of Ash" from Ashen Sovereign - Image Prompts, then replace this comment with: ![Crown of Ash](image-url) -->
+
+</details>
+
+Previous: [5.1 The Final Seal](5-1-the-final-seal.md)

@@ -1,0 +1,62 @@
+---
+title: 3.1 The Ritual Sites
+tags:
+  - Scenario
+---
+![Scene](https://lh3.googleusercontent.com/pw/AP1GczOlQ5didx2bOaGiex5cbdbMnAf8BJCLFo3F20FsKvAdelK4nIx44MH_C84ccu-wOLqZS--LLfgkh9TUDJEm4jf4A6ha2OW69Ahyb3okYpQS1hiazws=w2400)
+
+## Narrative
+
+Three circles of scorched stone stand half-swallowed by the ash — the knots of Vhar'Ghul's cage, exactly where the stolen records said they would be.
+
+Each faction has found one. Each has learned just enough ritual-craft to begin turning the lock — and more than enough to know what it means if a rival is allowed to finish. One force kneels at the circle to work the ritual; another comes howling out of the ash to stop them.
+
+With the stakes now plain, both sides field full raiding companies (1250pts).
+
+This is where the story really begins.
+
+## Battleplan
+![Battleplan](https://lh3.googleusercontent.com/pw/AP1GczMzSkYilGHO1nOwi0iBjRck8jFMBIXjmmKZ7ub4X8dhx5_gzpvmi17RtWnO0isHSI2qzW6QXWU3gDq_GXBIh5H9kUXQeUyxeuuQNpwHZVYM5SBN2Qw=w2400)
+
+Wahapedia (4e battleplan — The Ritual): https://wahapedia.ru/aos4/the-rules/narrative-play-games/#The-Ritual
+
+**Setup & Deployment:** Disruptor deploys first (9"+ from opponent). Ritualist deploys within their territory (6"+ from opponent).
+
+**Victory Conditions:** Ritualist controls ritual site for D6 victory points plus D3 per arcane repository controlled, minus D3 per disruptor-controlled objective. Victory based on ritualist's final total.
+
+**Army Points:** 1250pts
+
+**Key Rules:**
+- Three objectives placed: one ritual site, two arcane repositories
+- Disruptor chooses which player takes the first turn
+- 5 rounds total
+- Ritualist sets faction terrain
+
+**Bonus Renown:** Units within 6" of any objective at battle's end gain renown.
+
+
+## Campaign Reward
+
+### Winner gains
+
+Ashen Sigil
+
+### At the finale
+
+One hero gains +1 control score.
+
+<details>
+<summary>⚠️ Aftermath — read only after the battle</summary>
+
+![Aftermath](https://lh3.googleusercontent.com/pw/AP1GczMaAoHI66Eo8k8uXu3neEnl87WobC6f7iUJNSaKegG0WZgTD7_ELgkQ9Ik6hmP4eOEEZHt-OAjOXaErm-oNdA-Mioq0f8JIbb1dqHZuG2MghLMrEjA=w2400)
+
+Completed or interrupted, drenched in the right blood or the wrong — the circle answers anyway. The stones drink what they were given, the ground exhales a lungful of hot ash, and leagues away the obsidian mountain groans like a hull under pressure.
+
+That night, all across the wastelands, mortals dream of a crowned thing made of embers. Some do not wake in their beds. They wake *walking* — out into the ash, toward the mountain, in silent columns a hundred strong.
+
+The seals are failing. It no longer matters who turned the lock.
+
+</details>
+
+Previous: [2.1 The Search Begins](2-1-the-search-begins.md)
+Next: [4.1 Gathering Power](4-1-gathering-power.md)
