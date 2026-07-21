@@ -15,6 +15,16 @@ title: The Prison of Vhar'Ghul
 > [!info] Spoiler discipline
 > Each scenario page opens with pre-battle lore (read it aloud before deploying) and ends with a collapsed **Aftermath** callout. Don't unfold the Aftermath until the battle is over, and don't open a scenario's page until it's the one being played.
 
+## Before You Play
+
+Bring to the table, every round:
+
+- [ ] Army list built to this round's points cap (see [[#Rounds|Rounds]] below)
+- [ ] Warlord chosen, with a Path picked — [[Path of the Warrior]] / [[Path of the Leader]] / [[Path of the Mage]] / [[Path of the Devout]]
+- [ ] Any other Heroes in the roster also have a Path picked
+- [ ] [[Stats|Army tracking tables]] up to date — Order of Battle, Rank/Renown, Artefacts, Spells/Prayers known
+- [ ] Know this round's Narrative — read it aloud before deploying, and don't open the Aftermath until the battle's over
+
 ## Factions
 
 - [[Stats#Slaves to Darkness|Slaves to Darkness]] — want ascension.
@@ -25,7 +35,7 @@ title: The Prison of Vhar'Ghul
 
 | Round | Battleplan | Points | Reward |
 |---|---|---|---|
-| [[1.1 Strange Omens]] | The Prize of Gallet | 800pts | Fragment of the Seal |
+| [[1.1 Strange Omens]] | The Prize of Gallet | 1000pts | Fragment of the Seal |
 | [[2.1 The Search Begins]] | The Hidden Cache | 1000pts | Ancient Coordinates |
 | [[3.1 The Ritual Sites]] | The Ritual | 1250pts | Ashen Sigil |
 | [[4.1 Gathering Power]] | Power in Numbers | 1500pts | Daemonic Favour |
@@ -52,7 +62,7 @@ Rounds 1–3 are a round robin — each pairing happens exactly once, each facti
 
 | Round | Points | Winner | Reward Claimed |
 | ----- | ------ | ------ | -------------- |
-| 1     | 800pts   |        |                |
+| 1     | 1000pts  |        |                |
 | 2     | 1000pts  |        |                |
 | 3     | 1250pts  |        |                |
 | 4     | 1500pts  |        |                |
