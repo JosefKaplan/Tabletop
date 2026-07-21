@@ -37,21 +37,30 @@ Fill out the rest of the roster (Battleline, other Heroes, monsters, war machine
 
 Every game you play generates two currencies:
 
-- **Glory Points** — earned once per battle, scaling with the battle's points size. Bonus Glory for winning (more for a major win) and for keeping your General alive. Roughly 30–55 Glory for small games, scaling toward ~200+ for large ones.
+- **Glory Points** — earned once per battle, based on the battle's points size. All that apply stack:
+
+  | Battle size | Fought | +Major Victory | +Minor Victory | +General Survived |
+  |---|---|---|---|---|
+  | 1000–1250pts | 30 | +20 | +10 | +5 |
+  | 1251–1750pts | 60 | +30 | +20 | +10 |
+  | 1751–2250pts | 100 | +40 | +30 | +15 |
+  | 2251pts+ | 150 | +50 | +40 | +20 |
+
+  Source: [Wahapedia — AoS4 Path to Glory](https://wahapedia.ru/aos4/the-rules/ascension/).
 - **Renown** — earned per unit, not per battle:
   - d3 Renown if the unit survived the battle.
   - 1 Renown if the unit was taken out of action.
-  - Nominate one unit before the battle as **Favoured Warriors** — they earn an extra d6 Renown on top of the above.
+  - Nominate one unit before the battle as **Favoured Warriors** — they earn an extra d6 Renown on top of the above. Your Warlord cannot be nominated.
 
 Record both on the army's Glory & Renown Ledger after every game, before spending anything.
 
 ## 5. Spend Glory Points
 
-Glory is the roster-building currency. Typical uses:
+Glory is the roster-building currency. Per aftermath sequence:
 
-- Recruit a new unit into the Order of Battle.
-- Reinforce (add models to) an existing unit.
-- Retire a unit you no longer want, for a partial Glory refund.
+- Recruit **1** new unit into the Order of Battle — costs Glory equal to the unit's points value.
+- Reinforce **1** existing unit — costs Glory equal to the points value of what's added.
+- Retire any number of units you no longer want — free, but no Glory refund.
 
 Spend it between battles, not mid-campaign-round — update the Order of Battle table immediately so points totals stay accurate for the next game.
 

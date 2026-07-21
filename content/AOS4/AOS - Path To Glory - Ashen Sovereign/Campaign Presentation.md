@@ -37,7 +37,7 @@ Do this before you pack up, in order:
 - [ ] Spend any Glory you want to spend now — recruit, reinforce, or retire — and update Order of Battle points immediately ([[How to Create a Hero]] step 5)
 - [ ] Log anything new gained: Artefacts/Blessings, Spells or Prayers (by name), injuries/scars, Triumphs
 - [ ] From Round 3 onward: roll the [[#Finale Trigger|Finale Trigger]] die and record the running total
-- [ ] Pick next round's Favoured Warriors unit before you forget who it was last time
+- [ ] Pick next round's Favoured Warriors unit before you forget who it was last time (any unit except the Warlord)
 
 ## Factions
 
