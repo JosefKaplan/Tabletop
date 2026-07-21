@@ -23,7 +23,21 @@ Bring to the table, every round:
 - [ ] Warlord chosen, with a Path picked — [[Path of the Warrior]] / [[Path of the Leader]] / [[Path of the Mage]] / [[Path of the Devout]]
 - [ ] Any other Heroes in the roster also have a Path picked
 - [ ] [[Stats|Army tracking tables]] up to date — Order of Battle, Rank/Renown, Artefacts, Spells/Prayers known
-- [ ] Know this round's Narrative — read it aloud before deploying, and don't open the Aftermath until the battle's over
+- [ ] Know this round's Narrative
+
+## After the Battle
+
+Do this before you pack up, in order:
+
+- [ ] Open the scenario's collapsed **Aftermath**
+- [ ] Note the result (win/loss, major/minor) on the [[#Winner Tracker|Winner Tracker]] below and claim the round's reward if you won
+- [ ] Record **Glory earned** on the [[Stats|Glory & Renown Ledger]] — battle-size base, win bonus, General-survived bonus (see [[How to Create a Hero]] step 4)
+- [ ] Record **Renown per unit** on the [[Stats|Order of Battle]] — d3 if it survived, 1 if taken out of action, +d6 for that round's Favoured Warriors
+- [ ] Check every unit's new Renown total against the rank table — any unit crossing a threshold picks a new 1-of-2 Path ability now ([[How to Create a Hero]] step 6)
+- [ ] Spend any Glory you want to spend now — recruit, reinforce, or retire — and update Order of Battle points immediately ([[How to Create a Hero]] step 5)
+- [ ] Log anything new gained: Artefacts/Blessings, Spells or Prayers (by name), injuries/scars, Triumphs
+- [ ] From Round 3 onward: roll the [[#Finale Trigger|Finale Trigger]] die and record the running total
+- [ ] Pick next round's Favoured Warriors unit before you forget who it was last time
 
 ## Factions
 
@@ -39,7 +53,7 @@ Bring to the table, every round:
 | [[2.1 The Search Begins]] | The Hidden Cache | 1000pts | Ancient Coordinates |
 | [[3.1 The Ritual Sites]] | The Ritual | 1250pts | Ashen Sigil |
 | [[4.1 Gathering Power]] | Power in Numbers | 1500pts | Daemonic Favour |
-| [[5.1 The Final Seal]] | The Vice | 1750pts | Master of the Ritual |
+| [[5.1 The Final Seal]] | The Vice | 1750pts | Marked by Vhar'Ghul |
 | [[6.1 The Ashen Sovereign (Finale)]] | The Nexus Collapse | revealed after Round 5 | — |
 
 ## Pairings (3 Players)
