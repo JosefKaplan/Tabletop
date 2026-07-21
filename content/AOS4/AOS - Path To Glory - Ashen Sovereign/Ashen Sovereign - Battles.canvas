@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"map","type":"link","url":"https://lh3.googleusercontent.com/pw/AP1GczO2Bt6pEuqPaugGv1zYJxLThr21G_8aCQqgZw9PJB1arlS1lWqT2fj116I0H1nT6AjzC5pv1c9kJPs7I0TIS-807AlYSFlsGyTJCykF4UT0VHm5MWE=w2400","x":1400,"y":-2500,"width":900,"height":1170,"color":"4"},
+		{"id":"sc-1","type":"file","file":"tabletop/AOS4/AOS - Path To Glory - Ashen Sovereign/Scenario/1.1 Strange Omens.md","x":-500,"y":-1120,"width":760,"height":2200,"color":"4"},
+		{"id":"sc-2","type":"file","file":"tabletop/AOS4/AOS - Path To Glory - Ashen Sovereign/Scenario/2.1 The Search Begins.md","x":350,"y":-1120,"width":760,"height":2200,"color":"5"},
+		{"id":"sc-3","type":"file","file":"tabletop/AOS4/AOS - Path To Glory - Ashen Sovereign/Scenario/3.1 The Ritual Sites.md","x":1200,"y":-1120,"width":760,"height":2200,"color":"6"},
+		{"id":"sc-4","type":"file","file":"tabletop/AOS4/AOS - Path To Glory - Ashen Sovereign/Scenario/4.1 Gathering Power.md","x":2050,"y":-1120,"width":760,"height":2200,"color":"3"},
+		{"id":"sc-5","type":"file","file":"tabletop/AOS4/AOS - Path To Glory - Ashen Sovereign/Scenario/5.1 The Final Seal.md","x":2900,"y":-1120,"width":760,"height":2200,"color":"2"},
+		{"id":"sc-6","type":"file","file":"tabletop/AOS4/AOS - Path To Glory - Ashen Sovereign/Scenario/6.1 The Ashen Sovereign (Finale).md","x":3750,"y":-1120,"width":800,"height":2600,"color":"1"},
+		{"id":"finale-trigger","type":"text","text":"**Finale Trigger**\nFrom Round 3 onward, roll D6 + 1 per ritual reward held by any player at the end of the round.\nOn 8+: the prison opens and the finale narrative rules kick in.","x":3850,"y":1520,"width":600,"height":180,"color":"1"}
+	],
+	"edges":[
+		{"id":"e-map-sc1","fromNode":"map","fromSide":"left","toNode":"sc-1","toSide":"top"},
+		{"id":"e-sc1-sc2","fromNode":"sc-1","fromSide":"right","toNode":"sc-2","toSide":"left","label":"wins Fragment of the Seal"},
+		{"id":"e-sc2-sc3","fromNode":"sc-2","fromSide":"right","toNode":"sc-3","toSide":"left","label":"wins Ancient Coordinates"},
+		{"id":"e-sc3-sc4","fromNode":"sc-3","fromSide":"right","toNode":"sc-4","toSide":"left","label":"wins Ashen Sigil"},
+		{"id":"e-sc4-sc5","fromNode":"sc-4","fromSide":"right","toNode":"sc-5","toSide":"left","label":"wins Daemonic Favour"},
+		{"id":"e-sc5-sc6","fromNode":"sc-5","fromSide":"right","toNode":"sc-6","toSide":"left","label":"wins Master of the Ritual"},
+		{"id":"e-sc6-finale","fromNode":"sc-6","fromSide":"bottom","toNode":"finale-trigger","toSide":"top"}
+	]
+}

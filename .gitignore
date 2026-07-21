@@ -1,0 +1,13 @@
+.DS_Store
+.idea/
+node_modules
+public
+prof
+tsconfig.tsbuildinfo
+.obsidian
+.quartz-cache
+private/
+.replit
+replit.nix
+.quartz/
+quartz/cli/tui/dist/

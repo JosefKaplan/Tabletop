@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"title","type":"text","text":"# The Prison of Vhar'Ghul\nPath to Glory campaign flow","x":-1400,"y":-1280,"width":600,"height":100},
+		{"id":"hero-guide","type":"file","file":"tabletop/AOS4/Path to Glory - Core Rules/How to Create a Hero.md","x":-1410,"y":-1180,"width":1330,"height":2420},
+		{"id":"hero-notes","type":"file","file":"tabletop/AOS4/AOS - Path To Glory - Ashen Sovereign/Hero Creation - Campaign Notes.md","x":-1410,"y":1300,"width":700,"height":400,"color":"5"},
+		{"id":"faction-s2d","type":"file","file":"tabletop/AOS4/AOS - Path To Glory - Ashen Sovereign/Armies/Slaves to Darkness.md","x":-1200,"y":1820,"width":700,"height":750,"color":"5"},
+		{"id":"faction-hoh","type":"file","file":"tabletop/AOS4/AOS - Path To Glory - Ashen Sovereign/Armies/Horns of Hashut.md","x":-400,"y":1820,"width":700,"height":750,"color":"5"},
+		{"id":"faction-skv","type":"file","file":"tabletop/AOS4/AOS - Path To Glory - Ashen Sovereign/Armies/Skaven.md","x":400,"y":1820,"width":700,"height":750,"color":"5"},
+		{"id":"sc-1","type":"file","file":"tabletop/AOS4/AOS - Path To Glory - Ashen Sovereign/Scenario/1.1 Strange Omens.md","x":-1505,"y":2930,"width":760,"height":1020},
+		{"id":"sc-2","type":"file","file":"tabletop/AOS4/AOS - Path To Glory - Ashen Sovereign/Scenario/2.1 The Search Begins.md","x":-710,"y":4200,"width":700,"height":750},
+		{"id":"sc-6","type":"file","file":"tabletop/AOS4/AOS - Path To Glory - Ashen Sovereign/Scenario/6.1 The Ashen Sovereign (Finale).md","x":2150,"y":1920,"width":700,"height":1300,"color":"1"},
+		{"id":"finale-trigger","type":"text","text":"**Finale Trigger**\nFrom Round 3 onward, roll D6 + 1 per ritual reward held by any player at the end of the round.\nOn 8+: the prison opens and the finale narrative rules kick in.","x":2200,"y":3440,"width":600,"height":260,"color":"1"},
+		{"id":"sc-3","type":"file","file":"tabletop/AOS4/AOS - Path To Glory - Ashen Sovereign/Scenario/3.1 The Ritual Sites.md","x":-80,"y":3040,"width":700,"height":800},
+		{"id":"sc-5","type":"file","file":"tabletop/AOS4/AOS - Path To Glory - Ashen Sovereign/Scenario/5.1 The Final Seal.md","x":1100,"y":3040,"width":700,"height":800},
+		{"id":"sc-4","type":"file","file":"tabletop/AOS4/AOS - Path To Glory - Ashen Sovereign/Scenario/4.1 Gathering Power.md","x":620,"y":4200,"width":700,"height":800}
+	],
+	"edges":[
+		{"id":"e-s2d-sc1","fromNode":"faction-s2d","fromSide":"bottom","toNode":"sc-1","toSide":"top"},
+		{"id":"e-hoh-sc1","fromNode":"faction-hoh","fromSide":"bottom","toNode":"sc-1","toSide":"top"},
+		{"id":"e-skv-sc1","fromNode":"faction-skv","fromSide":"bottom","toNode":"sc-1","toSide":"top"},
+		{"id":"e-sc1-sc2","fromNode":"sc-1","fromSide":"right","toNode":"sc-2","toSide":"left","label":"wins Fragment of the Seal"},
+		{"id":"e-sc2-sc3","fromNode":"sc-2","fromSide":"right","toNode":"sc-3","toSide":"left","label":"wins Ancient Coordinates"},
+		{"id":"e-sc3-sc4","fromNode":"sc-3","fromSide":"right","toNode":"sc-4","toSide":"left","label":"wins Ashen Sigil"},
+		{"id":"e-sc4-sc5","fromNode":"sc-4","fromSide":"right","toNode":"sc-5","toSide":"left","label":"wins Daemonic Favour"},
+		{"id":"e-sc5-sc6","fromNode":"sc-5","fromSide":"right","toNode":"sc-6","toSide":"left","label":"wins Master of the Ritual"},
+		{"id":"e-sc6-finale","fromNode":"sc-6","fromSide":"bottom","toNode":"finale-trigger","toSide":"top"},
+		{"id":"2b1bfbd34bd3de42","fromNode":"title","fromSide":"bottom","toNode":"hero-guide","toSide":"top"},
+		{"id":"e-hero-guide-notes","fromNode":"hero-guide","fromSide":"bottom","toNode":"hero-notes","toSide":"top"},
+		{"id":"2655cbefcb975ed2","fromNode":"hero-notes","fromSide":"bottom","toNode":"faction-s2d","toSide":"top"},
+		{"id":"51346ee2e804eef6","fromNode":"hero-notes","fromSide":"bottom","toNode":"faction-hoh","toSide":"top"},
+		{"id":"19eddb1b60ea2055","fromNode":"hero-notes","fromSide":"bottom","toNode":"faction-skv","toSide":"top"}
+	]
+}
