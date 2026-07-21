@@ -1,3 +1,6 @@
+---
+unlisted: true
+---
 *PRIEST HERO only.* Grants extra faith tricks on top of the Hero's normal prayers, culminating in battlefield-wide damage or healing rituals. See [[Hero Paths]] for the shared rank structure and [[How to Create a Hero]] for the wider campaign rules — remember to log each granted prayer by name on the army's Prayers Known column.
 
 ## Rank Tree

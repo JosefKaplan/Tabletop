@@ -1,3 +1,6 @@
+---
+unlisted: true
+---
 *HERO only · anyone can take it.* Turns a Hero into a personal combat monster — weapon and armour upgrades culminating in Ward or Strike-First. See [[Hero Paths]] for the shared rank structure and [[How to Create a Hero]] for the wider campaign rules.
 
 ## Rank Tree

@@ -6,13 +6,7 @@ Ancient maps and relic fragments have surfaced. Three factions race to find and 
 
 ## Table of Contents
 
-- [[How to Create a Hero]] (core rules) + [[Hero Creation - Campaign Notes]] (this campaign's specifics)
-- [[Hero Paths]] (core rules)
-- [[Ashen Sovereign - Image Prompts]] — prompts for generating art with an external tool
-- Armies
-	- [[Slaves to Darkness]]
-	- [[Horns of Hashut]]
-	- [[Skaven]]
+- [[Stats]] — hero rosters and tracking sheets for every faction
 - Scenarios
 	- [[1.1 Strange Omens]]
 	- [[2.1 The Search Begins]]
@@ -23,9 +17,9 @@ Ancient maps and relic fragments have surfaced. Three factions race to find and 
 
 ## Factions
 
-- [[Slaves to Darkness]] — want ascension.
-- [[Horns of Hashut]] — want infernal power.
-- [[Skaven]] — want to steal everything and probably accidentally doom everyone.
+- [[Stats#Slaves to Darkness|Slaves to Darkness]] — want ascension.
+- [[Stats#Horns of Hashut|Horns of Hashut]] — want infernal power.
+- [[Stats#Skaven|Skaven]] — want to steal everything and probably accidentally doom everyone.
 
 ## Rounds
 

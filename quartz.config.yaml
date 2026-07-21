@@ -12,6 +12,9 @@ configuration:
     - private
     - templates
     - .obsidian
+    - ModelProjects
+    - "**/Campaign Presentation.md"
+    - "**/*.canvas"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true

@@ -1,3 +1,6 @@
+---
+unlisted: true
+---
 Core Path to Glory (AoS 4th edition) procedure for standing up a warband and its Warlord. This is system-generic — reusable across any campaign. For a specific campaign's starting points, army roster, and reward chain, see that campaign's own notes (e.g. its "Campaign Notes" page).
 
 ## 1. Pick a Faction and a Warlord

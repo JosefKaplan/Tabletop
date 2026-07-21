@@ -1,3 +1,6 @@
+---
+unlisted: true
+---
 *WIZARD HERO only.* Grants extra arcane tricks on top of the Hero's normal spell lore, culminating in battlefield-shaping spell-like abilities. See [[Hero Paths]] for the shared rank structure and [[How to Create a Hero]] for the wider campaign rules — remember to log each granted spell by name on the army's Spells Known column.
 
 ## Rank Tree

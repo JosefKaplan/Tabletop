@@ -1,6 +1,7 @@
+---
+unlisted: true
+---
 Index of the four Hero progression Paths from [[How to Create a Hero]] step 2 & 6. Every HERO picks one Path on recruitment and cannot switch later — see each page for the full 4-tier ability tree (Aspiring → Elite → Mighty → Legendary).
-
-See [[Hero Paths Canvas.canvas|Hero Paths Canvas]] for a visual branching-tree view of all four Paths side by side.
 
 ## The Four Paths
 

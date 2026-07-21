@@ -1,3 +1,6 @@
+---
+unlisted: true
+---
 *HERO only · anyone can take it.* Turns a Hero into a warband commander — command points, rally buffs, and objective control culminating in Ward or army-wide control bonuses. See [[Hero Paths]] for the shared rank structure and [[How to Create a Hero]] for the wider campaign rules.
 
 ## Rank Tree
