@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"map","type":"link","url":"https://lh3.googleusercontent.com/pw/AP1GczO2Bt6pEuqPaugGv1zYJxLThr21G_8aCQqgZw9PJB1arlS1lWqT2fj116I0H1nT6AjzC5pv1c9kJPs7I0TIS-807AlYSFlsGyTJCykF4UT0VHm5MWE=w2400","x":1400,"y":-2500,"width":900,"height":1170,"color":"4"},
+		{"id":"map","type":"link","url":"https://lh3.googleusercontent.com/pw/AP1GczO1h24YrpaEmd_bmaL-5MLn5gTpWbkdoHU1sLZh7c7SZ_DjXvn6jeVfGav_E8dgR5dXbqtmx3-GGuDnJ9ReZTzEdfjKGuLDfMzdTBCmaGtKm0OBd-8=w2400","x":1400,"y":-2500,"width":900,"height":1170,"color":"4"},
 		{"id":"sc-1","type":"file","file":"tabletop/AOS4/AOS - Path To Glory - Ashen Sovereign/Scenario/1.1 Strange Omens.md","x":-500,"y":-1120,"width":760,"height":2200,"color":"4"},
 		{"id":"sc-2","type":"file","file":"tabletop/AOS4/AOS - Path To Glory - Ashen Sovereign/Scenario/2.1 The Search Begins.md","x":350,"y":-1120,"width":760,"height":2200,"color":"5"},
 		{"id":"sc-3","type":"file","file":"tabletop/AOS4/AOS - Path To Glory - Ashen Sovereign/Scenario/3.1 The Ritual Sites.md","x":1200,"y":-1120,"width":760,"height":2200,"color":"6"},

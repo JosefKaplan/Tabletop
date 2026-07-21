@@ -1,7 +1,7 @@
 ---
 title: The Prison of Vhar'Ghul
 ---
-![Map](https://lh3.googleusercontent.com/pw/AP1GczO2Bt6pEuqPaugGv1zYJxLThr21G_8aCQqgZw9PJB1arlS1lWqT2fj116I0H1nT6AjzC5pv1c9kJPs7I0TIS-807AlYSFlsGyTJCykF4UT0VHm5MWE=w2400)
+![Map](https://lh3.googleusercontent.com/pw/AP1GczO1h24YrpaEmd_bmaL-5MLn5gTpWbkdoHU1sLZh7c7SZ_DjXvn6jeVfGav_E8dgR5dXbqtmx3-GGuDnJ9ReZTzEdfjKGuLDfMzdTBCmaGtKm0OBd-8=w2400)
 
 ## Scenarios
 
