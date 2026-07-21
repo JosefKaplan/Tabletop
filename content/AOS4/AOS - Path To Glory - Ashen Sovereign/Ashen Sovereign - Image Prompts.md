@@ -1,7 +1,7 @@
 ---
 unlisted: true
 ---
-Prompts for an external image generator (Midjourney/DALL·E/SDXL) — one for the overall progression map, one per scenario, plus aftermath reveals, finale scenes, and epilogue endings. See [[Path to Glory Campaign]] for the scenarios these are based on.
+Prompts for an external image generator (Midjourney/DALL·E/SDXL) — one for the overall progression map, one per scenario, plus aftermath reveals, finale scenes, and epilogue endings. See [[Campaign Presentation]] for the scenarios these are based on.
 
 AI image generators render text badly — labels/numbers are deliberately left out of every prompt below. Add them afterward in an image editor rather than asking the generator for legible text.
 

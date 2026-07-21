@@ -13,7 +13,6 @@ configuration:
     - templates
     - .obsidian
     - ModelProjects
-    - "**/Campaign Presentation.md"
     - "**/*.canvas"
   theme:
     fontOrigin: googleFonts
