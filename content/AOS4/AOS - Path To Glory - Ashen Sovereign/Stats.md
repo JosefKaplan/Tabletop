@@ -1,5 +1,17 @@
 Tracking sheets for each faction in the campaign. See [[How to Create a Hero]] for the core procedure these tables support.
 
+### Hero Injuries (Battle Scars) reference
+
+Roll 2D6 whenever a HERO is taken out of action — see [[How to Create a Hero]] for the full explanation. Log the result in that Hero's **Injuries** column below.
+
+| Roll | Result | Effect |
+|---|---|---|
+| 2–3 | Killed | Unit is removed from your roster permanently |
+| 4–5 | Critical Injury | Starts their next battle with **D3 wounds** already allocated, which can't be healed or negated that battle |
+| 6–7 | Major Injury | Starts their next battle with **1 wound** already allocated, which can't be healed or negated that battle |
+| 8–11 | Minor Injury | No effect |
+| 12 | Forged in Battle | Gains bonus Renown instead of a scar |
+
 ---
 ## Slaves to Darkness
 
@@ -33,13 +45,13 @@ One active quest per Hero, chosen at roster creation or during the aftermath seq
 
 Fill in immediately after each battle, before spending any Glory.
 
-| Round | Battle | Result | Glory Earned | Glory Spent | Favoured Warriors | General Survived? |
-|---|---|---|---|---|---|---|
-| 1 |  |  |  |  |  |  |
-| 2 |  |  |  |  |  |  |
-| 3 |  |  |  |  |  |  |
-| 4 |  |  |  |  |  |  |
-| 5 |  |  |  |  |  |  |
+| Scenario | Opponent | Result | Glory Earned | Glory Spent | Favoured Warriors | General Survived? |
+| -------- | -------- | ------ | ------------ | ----------- | ----------------- | ----------------- |
+| 1        |          |        |              |             |                   |                   |
+| 2        |          |        |              |             |                   |                   |
+| 3        |          |        |              |             |                   |                   |
+| 4        |          |        |              |             |                   |                   |
+| 5        |          |        |              |             |                   |                   |
 
 ---
 ## Horns of Hashut
@@ -74,13 +86,13 @@ One active quest per Hero, chosen at roster creation or during the aftermath seq
 
 Fill in immediately after each battle, before spending any Glory.
 
-| Round | Battle | Result | Glory Earned | Glory Spent | Favoured Warriors | General Survived? |
-|---|---|---|---|---|---|---|
-| 1 |  |  |  |  |  |  |
-| 2 |  |  |  |  |  |  |
-| 3 |  |  |  |  |  |  |
-| 4 |  |  |  |  |  |  |
-| 5 |  |  |  |  |  |  |
+| Scenario | Opponent | Result | Glory Earned | Glory Spent | Favoured Warriors | General Survived? |
+| -------- | -------- | ------ | ------------ | ----------- | ----------------- | ----------------- |
+| 1        |          |        |              |             |                   |                   |
+| 2        |          |        |              |             |                   |                   |
+| 3        |          |        |              |             |                   |                   |
+| 4        |          |        |              |             |                   |                   |
+| 5        |          |        |              |             |                   |                   |
 
 ---
 ## Skaven
@@ -131,10 +143,10 @@ One active quest per Hero, chosen at roster creation or during the aftermath seq
 
 Fill in immediately after each battle, before spending any Glory.
 
-| Round | Battle | Result | Glory Earned | Glory Spent | Favoured Warriors | General Survived? |
-|---|---|---|---|---|---|---|
-| 1 |  |  |  |  |  |  |
-| 2 |  |  |  |  |  |  |
-| 3 |  |  |  |  |  |  |
-| 4 |  |  |  |  |  |  |
-| 5 |  |  |  |  |  |  |
+| Scenario | Opponent | Result | Glory Earned | Glory Spent | Favoured Warriors | General Survived? |
+| -------- | -------- | ------ | ------------ | ----------- | ----------------- | ----------------- |
+| 1        |          |        |              |             |                   |                   |
+| 2        |          |        |              |             |                   |                   |
+| 3        |          |        |              |             |                   |                   |
+| 4        |          |        |              |             |                   |                   |
+| 5        |          |        |              |             |                   |                   |

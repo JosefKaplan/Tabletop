@@ -90,4 +90,4 @@ At the end of every battle round from Round 3 onward, roll D6 + 1 per ritual rew
 
 ---
 
-Hero rosters and army tracking sheets: [[Stats]].
+Hero rosters and army tracking sheets: [[Stats]]. Print a fresh [[Battle Tracking Sheet]] before each game.

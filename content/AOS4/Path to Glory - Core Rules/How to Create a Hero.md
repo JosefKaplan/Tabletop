@@ -47,12 +47,28 @@ Every game you play generates two currencies:
   | 2251pts+ | 150 | +50 | +40 | +20 |
 
   Source: [Wahapedia — AoS4 Path to Glory](https://wahapedia.ru/aos4/the-rules/ascension/).
-- **Renown** — earned per unit, not per battle:
+
+  **General = Warlord, whenever fielded.** If your Warlord is included in the army for that battle, they must be picked as your General — you can't bench them and hand General to a different Hero instead. The only time another Hero becomes General is when the Warlord isn't fielded that game at all (dead, injured out, or left home). So in practice, "did the General survive?" and "did the Warlord survive?" are the same question for as long as the Warlord is alive and playing.
+- **Renown** — earned per unit:
   - d3 Renown if the unit survived the battle.
   - 1 Renown if the unit was taken out of action.
   - Nominate one unit before the battle as **Favoured Warriors** — they earn an extra d6 Renown on top of the above. Your Warlord cannot be nominated.
 
 Record both on the army's Glory & Renown Ledger after every game, before spending anything.
+
+### Hero Injuries (Battle Scars)
+
+Whenever a **HERO** is taken out of action, roll 2D6 on top of earning the usual Renown:
+
+| Roll | Result | Effect |
+|---|---|---|
+| 2–3 | Killed | Unit is removed from your roster permanently |
+| 4–5 | Critical Injury | Starts their next battle with **D3 wounds** already allocated, which can't be healed or negated that battle |
+| 6–7 | Major Injury | Starts their next battle with **1 wound** already allocated, which can't be healed or negated that battle |
+| 8–11 | Minor Injury | No effect |
+| 12 | Forged in Battle | Gains bonus Renown instead of a scar |
+
+Injuries are temporary — the wound penalty only applies to that Hero's *next* battle and doesn't compound or carry forward beyond it. You can spend Glory to re-roll one injury result per aftermath sequence. Log the result on the Hero's row so the wound penalty actually gets applied next game (see step 7).
 
 ## 5. Spend Glory Points
 
