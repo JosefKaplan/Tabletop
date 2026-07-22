@@ -93,15 +93,15 @@ The Grey Seers have discovered that the prison contains unimaginable quantities 
 
 Track every unit here, Heroes included — see [[How to Create a Hero]] steps 1–2, 3 and 8. Update points/renown/rank right after spending Glory or logging a battle — don't let this go stale between sessions.
 
-| Unit | Role | Path | Points | Renown | Rank | Injuries | Artefact/Upgrade/Spells/Prayers |
-|---|---|---|---|---|---|---|---|
-| Warlock Engineer | Warlord | Leader | 100 |  |  |  |  |
-| Grey Seer | Hero | Mage | 110 |  |  |  |  |
-| Deathmaster | Hero | Warrior | 120 |  |  |  |  |
-| Clanrats | Battleline | Defender | 300 |  |  |  |  |
-| Warplock Jezzails | Infantry | Defender | 120 |  |  |  |  |
-| Ratling Warpblaster | War Machine | Defender | 110 |  |  |  |  |
-| Night Runners | Infantry | Attacker | 130 |  |  |  |  |
+| Unit                | Role        | Path     | Points | Renown | Rank | Injuries | Artefact/Upgrade/Spells/Prayers |
+| ------------------- | ----------- | -------- | ------ | ------ | ---- | -------- | ------------------------------- |
+| Warlock Engineer    | Warlord     | Leader   | 100    |        |      |          |                                 |
+| Grey Seer           | Hero        | Mage     | 110    |        |      |          | Skitterleap                     |
+| Deathmaster         | Hero        | Warrior  | 120    |        |      |          |                                 |
+| Clanrats            | Battleline  | Defender | 300    |        |      |          |                                 |
+| Warplock Jezzails   | Infantry    | Defender | 120    |        |      |          |                                 |
+| Ratling Warpblaster | War Machine | Defender | 110    |        |      |          |                                 |
+| Night Runners       | Infantry    | Attacker | 130    |        |      |          |                                 |
 
 Total: 990/1000pts. Also includes a **Gnawhole** (Faction Terrain, 0pts, not tracked as a unit).
 
