@@ -136,8 +136,8 @@ Log which of the 1-of-2 options was picked at each rank-up — see [[How to Crea
 | Warlock Engineer    | Leader   | ❌               |               |                |                 |
 | Grey Seer           | Mage     | ❌               |               |                |                 |
 | Deathmaster         | Warrior  | ❌               |               |                |                 |
-| Clanrats            | Defender | ✅               |               |                |                 |
-| Clanrats            | Defender | ❌               |               |                |                 |
+| Clanrats            | Attacker | ✅               |               |                |                 |
+| Clanrats            | Attacker | ❌               |               |                |                 |
 | Warplock Jezzails   | Defender | ❌               |               |                |                 |
 | Ratling Warpblaster | Defender | ❌               |               |                |                 |
 | Night Runners       | Attacker | ❌               |               |                |                 |
