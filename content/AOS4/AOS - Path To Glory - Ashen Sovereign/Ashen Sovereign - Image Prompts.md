@@ -93,3 +93,17 @@ A colossal daemon caught mid-scream between two fates above a ruptured ritual si
 ## Epilogue — Crown of Ash (closing shot, any ending)
 
 A dead-still empty wasteland long after the last battle, fine grey ash drifting down from an overcast sky and settling across the ground in the vast unmistakable outline of a crown reaching toward the horizon, one broken banner leaning at its rim. Minimalist haunting wide shot, near-monochrome greys with the faintest ember glow tracing the crown's rim, funeral quiet. Dark fantasy concept art, painterly digital illustration, dramatic chiaroscuro lighting, muted earthy palette with ash-purple and ember-orange accents, Warhammer Age of Sigmar aesthetic, highly detailed, ominous atmosphere.
+
+---
+
+# Character Portraits
+
+Standalone model/character art rather than scene illustrations for a specific stop — useful as painting references or roster art. Same style anchor, with warpstone-green swapped in for factions where it fits better than ash-purple.
+
+## Skaven Warplock Engineer (Clan Skryre musketeer)
+
+A hunched ratman engineer of Clan Skryre, wiry and twitchy, clad in patchwork leather and corroded iron plates hung with tools, vials and coiled fuse-wire, brass goggles pushed up on his snout, gripping a long warplock musket that hisses with sickly green warpstone vapour from its barrel and hexagonal iron housing. Wisps of green-tinged smoke curling from an over-charged weapon, cracked claws steadying the stock, sharp yellowed fangs bared in a nervous grin. Three-quarter character-portrait framing, dramatic low sidelight from the glowing weapon casting long ratlike shadows, dark grimy backdrop of a warpstone-lit tunnel or trench line. Dark fantasy concept art, painterly digital illustration, dramatic chiaroscuro lighting, muted earthy palette with sickly warpstone-green and rust-orange accents, Warhammer Age of Sigmar aesthetic, highly detailed, ominous atmosphere.
+
+### Action-pose variant
+
+The same Warplock Engineer crouched behind cover mid-battle, one eye squinted through a cracked goggle lens as he takes aim, the warplock musket's barrel glowing white-hot at the tip a heartbeat before firing, spent brass-and-warpstone cartridges scattered at his feet, other ratmen scurrying past in the background haze. Dynamic low-angle action shot, motion blur on the tail, single hard light source from the charging weapon. Dark fantasy concept art, painterly digital illustration, dramatic chiaroscuro lighting, muted earthy palette with sickly warpstone-green and rust-orange accents, Warhammer Age of Sigmar aesthetic, highly detailed, ominous atmosphere.

@@ -11,6 +11,14 @@ Starting Order of Battle (step 3 of the core procedure) is capped at **1,000pts*
 
 Track each Hero and their Path in [[Stats]] — see each faction's Heroes / Order of Battle / Path Abilities tables (step 8 of the core procedure) for the actual tracking.
 
+## Starting Spells, Artefacts & Traits
+
+No campaign-specific overrides here — this is just the core Path to Glory rule, spelled out since it's easy to assume you start with more:
+
+- **Spells:** A WIZARD Hero picks **1 spell from a spell lore + 1 spell from a manifestation lore** available to their faction, the first time they're added to the Order of Battle. Beyond that, more spells only come from ranking up on the [[Path of the Mage]] — log each by name on [[Stats]].
+- **Artefacts:** **Zero** at creation — nothing is handed out automatically. Artefacts come later, from a "Search for the Artefact" quest reward or from campaign rewards/Glory spend (step 8 of [[How to Create a Hero]]).
+- **Battle Trait / Heroic Trait:** Neither is granted at setup. No Battle Trait comes free, and the Warlord doesn't get a Heroic Trait either — instead they get their **Path** ([[Path of the Warrior|Warrior]]/[[Path of the Leader|Leader]]/[[Path of the Mage|Mage]]/[[Path of the Devout|Devout]]), which grants abilities as they rank up through Renown. Heroic Traits are only earned through specific quests (e.g. "Rise of a Champion").
+
 ## War Footing Bonus (Rounds 4 & 5)
 
 The stock Glory table (see [[How to Create a Hero]] step 4) doesn't earn enough for a player to organically grow into the full points cap by Rounds 4–5 — even winning every game at maximum bonuses falls a couple hundred Glory short, despite the narrative describing armies that "swell to full strength" and "commit everything." To close that gap:
