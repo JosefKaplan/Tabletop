@@ -85,6 +85,8 @@ Fill in immediately after each battle, before spending any Glory.
 ---
 ## Skaven
 
+![Warlock Engineer (General)](https://lh3.googleusercontent.com/pw/AP1GczMid_R4jMi6ACuNuJfjlUtVYS2KekMqPuFxLjsxduN2e5B3EKTOsWnDGDSYgDUMyzIi2afuCSIPfLtkBaYIK4zPzGW3fqjJDSrhuQKeuJtmV91Jhu0=w2400)
+
 The Grey Seers have discovered that the prison contains unimaginable quantities of warpstone-tainted energy. Naturally, they intend to steal it before anyone else can.
 
 ### Order of Battle
