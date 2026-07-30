@@ -74,8 +74,8 @@ Injuries are temporary — the wound penalty only applies to that Hero's *next* 
 
 Glory is the roster-building currency. Per aftermath sequence:
 
-- Recruit **1** new unit into the Order of Battle — costs Glory equal to the unit's points value.
-- Reinforce **1** existing unit — costs Glory equal to the points value of what's added.
+- Recruit **1** new unit into the Order of Battle — costs Glory equal to the unit's points value (1 Glory = 1pt by default; check your campaign's notes, some use a different conversion rate).
+- Reinforce **1** existing unit — costs Glory equal to the points value of what's added, at the same conversion rate.
 - Retire any number of units you no longer want — free, but no Glory refund.
 
 Spend it between battles, not mid-campaign-round — update the Order of Battle table immediately so points totals stay accurate for the next game.
@@ -111,5 +111,6 @@ Heroes accumulate more than rank — track this on the army's Heroes table, not 
 - **Spells known** — Mage Path Heroes add a new spell each time a Path ability grants one; list them by name.
 - **Prayers known** — Devout Path Heroes add a new prayer the same way; list them by name.
 - Warrior and Leader Path Heroes won't have entries in the Spells/Prayers columns — that's expected, leave them blank rather than filling with "N/A" clutter.
+- **Anvil of Apotheosis upgrades** — a Hero can be permanently rebuilt into a unique unit using the Anvil of Apotheosis rules. Log the resulting warscroll (stats, weapons, abilities) on the army's tracking page alongside its new points cost, then track it from then on like any other roster entry — Renown, Rank, and Injuries all carry over to the upgraded profile.
 
 See your campaign's own army pages for the tracking tables.

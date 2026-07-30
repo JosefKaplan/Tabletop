@@ -62,9 +62,9 @@ Rounds 1–3 are a round robin — each pairing happens exactly once, each facti
 
 | Round | Match                                           | Sits out            |
 | ----- | ----------------------------------------------- | ------------------- |
-| 1     | Slaves To Darkness vs Skaven                    | Helsmiths of Hashut |
-| 2     | Skaven vs Helsmiths of Hashut                   | Slaves To Darkness  |
-| 3     | Helsmiths of Hashut vs Slaves To Darkness       | Skaven              |
+| 1     | Slaves to Darkness vs Skaven                    | Horns of Hashut     |
+| 2     | Skaven vs Horns of Hashut                       | Slaves to Darkness  |
+| 3     | Horns of Hashut vs Slaves to Darkness           | Skaven              |
 | 4     | Seed 1 vs Seed 2 (best two round-robin records) | Seed 3              |
 | 5     | Round 4 winner vs Seed 3                        | Round 4 loser       |
 | 6     | revealed after Round 5                          | —                   |
@@ -74,15 +74,23 @@ Rounds 1–3 are a round robin — each pairing happens exactly once, each facti
 
 ## Winner Tracker
 
-| Round | Points  | Winner             | Reward Claimed        |
-| ----- | ------- | ------------------ | --------------------- |
-| 1     | 1000pts | Slaves to Darkness | 1 extra Command Point |
-| 2     | 1000pts |                    |                       |
-| 3     | 1250pts |                    |                       |
-| 4     | 1500pts |                    |                       |
-| 5     | 1750pts |                    |                       |
+| Round | Points  | Winner             | Reward Claimed       | Finale Bonus                                     |
+| ----- | ------- | ------------------ | -------------------- | ------------------------------------------------ |
+| 1     | 1000pts | Slaves to Darkness | Fragment of the Seal | One free command point in the first battleround. |
+| 2     | 1000pts |                    |                      |                                                  |
+| 3     | 1250pts |                    |                      |                                                  |
+| 4     | 1500pts |                    |                      |                                                  |
+| 5     | 1750pts |                    |                      |                                                  |
 
 The finale's matchup and army sizes depend on Round 5's outcome — unfold Scenario 5's Aftermath once it has been played, then open [[6.1 The Ashen Sovereign (Finale)]].
+
+## Story So Far
+
+*Updated after each round — a quick narrative recap for whoever's running the next session. Only reflects what's been played; nothing below spoils an unopened scenario's Aftermath.*
+
+**Round 1 — Strange Omens:** Slaves to Darkness caught the Skaven scouting party among the ruins and broke them, their Warriors earning Favoured status in the crush. Among the wreckage, the Chaos champion pries a shard of warm black glass from a dead rival's fist — the **Fragment of the Seal** — and it hasn't stopped whispering directions since. Horns of Hashut sat this round out, banking their strength.
+
+**Next — Round 2: The Search Begins:** The fragment's whisper leads down, to a vault-city sunk beneath the wastes — the buried archive of whoever built the prison in the first place. Skaven and Horns of Hashut collide over it this round: one side has to break in and carry the records out through the ash before the other seals every road home. Slaves to Darkness sits this one out, fragment in hand, waiting to see what the vaults give up.
 
 ## Finale Trigger
 

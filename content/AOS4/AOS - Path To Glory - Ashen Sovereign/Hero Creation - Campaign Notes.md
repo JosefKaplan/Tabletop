@@ -19,6 +19,21 @@ No campaign-specific overrides here — this is just the core Path to Glory rule
 - **Artefacts:** **Zero** at creation — nothing is handed out automatically. Artefacts come later, from a "Search for the Artefact" quest reward or from campaign rewards/Glory spend (step 8 of [[How to Create a Hero]]).
 - **Battle Trait / Heroic Trait:** Neither is granted at setup. No Battle Trait comes free, and the Warlord doesn't get a Heroic Trait either — instead they get their **Path** ([[Path of the Warrior|Warrior]]/[[Path of the Leader|Leader]]/[[Path of the Mage|Mage]]/[[Path of the Devout|Devout]]), which grants abilities as they rank up through Renown. Heroic Traits are only earned through specific quests (e.g. "Rise of a Champion").
 
+## Recruitment Conversion Rate (House Rule)
+
+This campaign overrides [[How to Create a Hero]] step 5's default 1:1 Glory-to-points rate:
+
+**1 Glory = 2pts.** Recruiting a new unit or reinforcing an existing one costs Glory equal to **half** the points value being added (round up to the nearest whole Glory). See [[Stats#Recruitment Conversion (Glory → Points) reference|the quick-reference table]] on the tracking page.
+
+## Destiny Point Conversion Rate (House Rule)
+
+This campaign adds a third way to spend Glory, on top of [[How to Create a Hero]] step 5's Recruit/Reinforce and the Hero Injuries re-roll:
+
+**1 Glory = 1 Destiny Point (DP).** A Hero already built via the Anvil of Apotheosis (see [[How to Create a Hero]] step 8) can convert Glory into DP, then spend that DP to upgrade their stat line, weapons, or abilities per the Anvil rules. Log the Hero's new DP total and resulting profile changes on their Anvil of Apotheosis entry — see [[Stats]] for an example.
+
+- **Unlimited, not throttled** — unlike Recruit/Reinforce (capped at 1 each per aftermath), converting Glory to DP can be done as many times as you have Glory for, any time during the aftermath sequence.
+- Still costs Glory like any other spend — log it in the **Glory Spent** column on the [[Stats|Glory & Renown Ledger]] same as a recruit/reinforce.
+
 ## War Footing Bonus (Rounds 4 & 5)
 
 The stock Glory table (see [[How to Create a Hero]] step 4) doesn't earn enough for a player to organically grow into the full points cap by Rounds 4–5 — even winning every game at maximum bonuses falls a couple hundred Glory short, despite the narrative describing armies that "swell to full strength" and "commit everything." To close that gap:
@@ -32,6 +47,6 @@ This applies regardless of win/loss — it's a campaign-wide escalation bonus, n
 
 Once the Final Seal's half-army loss has been applied to the two losing players, every player — winner and both losers — may spend Glory with no limit on how many units they recruit or reinforce this aftermath. Normally it's 1 new unit + 1 reinforced unit per aftermath (see [[How to Create a Hero]] step 5); for Round 5 only, that cap is lifted entirely.
 
-- Still costs Glory equal to points value per recruit/reinforcement, same as always — this doesn't create free points, it just removes the per-aftermath throttle so banked Glory can actually be spent in one go.
+- Still costs Glory per this campaign's conversion rate (1 Glory = 2pts, see [[#Recruitment Conversion Rate (House Rule)|above]]) per recruit/reinforcement, same as always — this doesn't create free points, it just removes the per-aftermath throttle so banked Glory can actually be spent in one go.
 - Applies **after** the half-army loss, not before — the losers are rebuilding from the wreckage, not padding out an army about to be cut in half.
 - Every other round (1–4, and the Finale has no aftermath) uses the standard 1-recruit / 1-reinforce limit.
