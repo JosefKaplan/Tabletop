@@ -14,14 +14,7 @@ Index of the four Hero progression Paths from [[How to Create a Hero]] step 2 & 
 
 ## Shared Rank Structure
 
-All four Paths use the same renown thresholds — see [[How to Create a Hero]] step 6:
-
-| Rank | Renown | Grants |
-|---|---|---|
-| Aspiring | 5–14 | 1st Path ability (pick 1 of 2) |
-| Elite | 15–29 | 2nd Path ability (pick 1 of 2) |
-| Mighty | 30–44 | 3rd Path ability (pick 1 of 2) |
-| Legendary | 45+ | 4th (final) Path ability — no further ranks |
+All four Paths use the same renown thresholds (Aspiring 5–14 → Elite 15–29 → Mighty 30–44 → Legendary 45+) — see [[How to Create a Hero]] step 6 for the full table.
 
 At each rank-up, pick **one of the two listed options** for that tier. Both options at a tier are always available regardless of which options were picked at earlier tiers — the choice isn't gated, so across a full campaign a Hero ends up with exactly 4 abilities (one per tier). Log the picks on your army's Path Abilities table.
 

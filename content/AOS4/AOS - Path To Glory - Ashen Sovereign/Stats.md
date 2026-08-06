@@ -19,15 +19,7 @@ This campaign uses **1 Glory = 2pts** for recruiting/reinforcing — half of [[H
 
 ### Hero Injuries (Battle Scars) reference
 
-Roll 2D6 whenever a HERO is taken out of action — see [[How to Create a Hero]] for the full explanation. Log the result in that Hero's **Injuries** column below.
-
-| Roll | Result           | Effect                                                                                                      |
-| ---- | ---------------- | ----------------------------------------------------------------------------------------------------------- |
-| 2–3  | Killed           | Unit is removed from your roster permanently                                                                |
-| 4–5  | Critical Injury  | Starts their next battle with **D3 wounds** already allocated, which can't be healed or negated that battle |
-| 6–7  | Major Injury     | Starts their next battle with **1 wound** already allocated, which can't be healed or negated that battle   |
-| 8–11 | Minor Injury     | No effect                                                                                                   |
-| 12   | Forged in Battle | Gains bonus Renown instead of a scar                                                                        |
+Roll 2D6 whenever a HERO is taken out of action — see [[How to Create a Hero#Hero Injuries (Battle Scars)|the Battle Scars table]] for the roll results. Log the result in that Hero's **Injuries** column below.
 
 ---
 ## Slaves to Darkness
@@ -72,14 +64,15 @@ Fill in immediately after each battle, before spending any Glory.
 
 | Scenario | Opponent | Result        | Glory Earned | Glory Spent | Favoured Warriors | General Survived? |
 | -------- | -------- | ------------- | ------------ | ----------- | ----------------- | ----------------- |
-| 1        | Skaven   | Minor Victory | 30+10+5=45   |             | Warriors          |                   |
+| 1        | Skaven   | Minor Victory | 30+10+5=45   | 0           | Warriors          | ✅                 |
 | 2        | -        | -             | -            | -           | -                 | -                 |
 | 3        |          |               |              |             |                   |                   |
 | 4        |          |               |              |             |                   |                   |
 | 5        |          |               |              |             |                   |                   |
+| 6        |          |               |              |             |                   |                   |
 
 ---
-## Horns of Hashut
+## Helsmiths of Hashut
 
 The priests of Hashut believe Vhar'Ghul's imprisoned essence can fuel daemon-forges capable of creating infernal engines unlike anything seen before.
 
@@ -111,13 +104,14 @@ One active quest per Hero, chosen at roster creation or during the aftermath seq
 
 Fill in immediately after each battle, before spending any Glory.
 
-| Scenario | Opponent | Result | Glory Earned | Glory Spent | Favoured Warriors | General Survived? |
-| -------- | -------- | ------ | ------------ | ----------- | ----------------- | ----------------- |
-| 1        |          |        |              |             |                   |                   |
-| 2        |          |        |              |             |                   |                   |
-| 3        |          |        |              |             |                   |                   |
-| 4        |          |        |              |             |                   |                   |
-| 5        |          |        |              |             |                   |                   |
+| Scenario | Opponent           | Result | Glory Earned | Glory Spent | Favoured Warriors | General Survived? |
+| -------- | ------------------ | ------ | ------------ | ----------- | ----------------- | ----------------- |
+| 1        | -                  | -      | -            | -           | -                 | -                 |
+| 2        | Skaven             |        |              | 0           |                   |                   |
+| 3        | Slaves To Darkness |        |              |             |                   |                   |
+| 4        |                    |        |              |             |                   |                   |
+| 5        |                    |        |              |             |                   |                   |
+| 6        |                    |        |              |             |                   |                   |
 
 ---
 ## Skaven
@@ -178,10 +172,11 @@ One active quest per Hero, chosen at roster creation or during the aftermath seq
 
 Fill in immediately after each battle, before spending any Glory.
 
-| Scenario | Opponent          | Result       | Glory Earned | Glory Spent | Favoured Warriors | General Survived? |
-| -------- | ----------------- | ------------ | ------------ | ----------- | ----------------- | ----------------- |
-| 1        | Slaves to Darkness | Minor Defeat | 30+0+5=35    |             | Clanrats          | Nope              |
-| 2        |                   |              |              |             |                   |                   |
-| 3        |                   |              |              |             |                   |                   |
-| 4        |                   |              |              |             |                   |                   |
-| 5        |                   |              |              |             |                   |                   |
+| Scenario | Opponent            | Result       | Glory Earned | Glory Spent | Favoured Warriors | General Survived? |
+| -------- | ------------------- | ------------ | ------------ | ----------- | ----------------- | ----------------- |
+| 1        | Slaves to Darkness  | Minor Defeat | 30+0+5=35    | 0           | Clanrats          | ❌                 |
+| 2        | Helsmiths of Hashut |              |              | 0           | Clanrats          |                   |
+| 3        | -                   | -            | -            | -           | -                 | -                 |
+| 4        |                     |              |              |             |                   |                   |
+| 5        |                     |              |              |             |                   |                   |
+| 6        |                     |              |              |             |                   |                   |

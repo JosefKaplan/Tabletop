@@ -78,7 +78,7 @@ A battle-scarred hero caught at the instant of apotheosis as the freed daemon's 
 
 A newly risen daemon prince stepping slowly out of a glowing crater, its body monstrous and magnificent but its face still unmistakably that of a mortal champion, a crown of cooling embers fading from white-hot to dull red upon its brow, chaos warriors kneeling in the ash before it. Low worshipful camera angle, figure backlit by craterlight, terrible majesty. Dark fantasy concept art, painterly digital illustration, dramatic chiaroscuro lighting, muted earthy palette with ash-purple and ember-orange accents, Warhammer Age of Sigmar aesthetic, highly detailed, ominous atmosphere.
 
-## Epilogue — The Furnace-Heart (Horns of Hashut ending)
+## Epilogue — The Furnace-Heart (Helsmiths of Hashut ending)
 
 A cathedral-sized infernal forge of black iron and brass where a molten daemon heart the size of a hill hangs suspended in a web of colossal chains, smith-priests in bull-horned masks channelling rivers of its fire into half-built engines of war, smoke and cinders filling the vaulted dark above tiny labouring figures. Industrial-hellish grandeur, the chained heart as the sole light source. Dark fantasy concept art, painterly digital illustration, dramatic chiaroscuro lighting, muted earthy palette with ash-purple and ember-orange accents, Warhammer Age of Sigmar aesthetic, highly detailed, ominous atmosphere.
 

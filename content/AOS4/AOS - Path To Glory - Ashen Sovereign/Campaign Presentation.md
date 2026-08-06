@@ -39,10 +39,14 @@ Do this before you pack up, in order:
 - [ ] From Round 3 onward: roll the [[#Finale Trigger|Finale Trigger]] die and record the running total
 - [ ] Pick next round's Favoured Warriors unit before you forget who it was last time (any unit except the Warlord)
 
+## House Rules
+
+- **Double turn command point steal:** If your opponent takes the double turn (wins priority again and takes a second turn in a row), you're the underdog for it. For every command point they spend during that double turn, roll a D6 — on a 5+, you gain 1 command point of your own. These steal-back points are on top of the normal 4 CP/battleround cap.
+
 ## Factions
 
 - [[Stats#Slaves to Darkness|Slaves to Darkness]] — want ascension.
-- [[Stats#Horns of Hashut|Horns of Hashut]] — want infernal power.
+- [[Stats#Helsmiths of Hashut|Helsmiths of Hashut]] — want infernal power.
 - [[Stats#Skaven|Skaven]] — want to steal everything and probably accidentally doom everyone.
 
 ## Rounds
@@ -60,14 +64,14 @@ Do this before you pack up, in order:
 
 Rounds 1–3 are a round robin — each pairing happens exactly once, each faction sits out exactly one round, so everyone has played twice before anyone advances. Rounds 4–5 become a knockout seeded off the round-robin standings.
 
-| Round | Match                                           | Sits out            |
-| ----- | ----------------------------------------------- | ------------------- |
-| 1     | Slaves to Darkness vs Skaven                    | Horns of Hashut     |
-| 2     | Skaven vs Horns of Hashut                       | Slaves to Darkness  |
-| 3     | Horns of Hashut vs Slaves to Darkness           | Skaven              |
-| 4     | Seed 1 vs Seed 2 (best two round-robin records) | Seed 3              |
-| 5     | Round 4 winner vs Seed 3                        | Round 4 loser       |
-| 6     | revealed after Round 5                          | —                   |
+| Round | Match                                            | Sits out             |
+| ----- | ------------------------------------------------ | -------------------- |
+| 1     | Slaves to Darkness vs Skaven                     | Helsmiths of Hashut  |
+| 2     | Skaven vs Helsmiths of Hashut                     | Slaves to Darkness   |
+| 3     | Helsmiths of Hashut vs Slaves to Darkness         | Skaven               |
+| 4     | Seed 1 vs Seed 2 (best two round-robin records)   | Seed 3               |
+| 5     | Round 4 winner vs Seed 3                          | Round 4 loser        |
+| 6     | revealed after Round 5                            | —                    |
 
 - Nobody plays fewer than 4 games; only the eventual Round 5 winner plays 5.
 - **Tiebreak:** if the round robin ends in a three-way 1–1 cycle, seed by total victory points scored across the three round-robin games (or a dice-off). Agree on the method before Round 4 is played.
@@ -88,9 +92,9 @@ The finale's matchup and army sizes depend on Round 5's outcome — unfold Scena
 
 *Updated after each round — a quick narrative recap for whoever's running the next session. Only reflects what's been played; nothing below spoils an unopened scenario's Aftermath.*
 
-**Round 1 — Strange Omens:** Slaves to Darkness caught the Skaven scouting party among the ruins and broke them, their Warriors earning Favoured status in the crush. Among the wreckage, the Chaos champion pries a shard of warm black glass from a dead rival's fist — the **Fragment of the Seal** — and it hasn't stopped whispering directions since. Horns of Hashut sat this round out, banking their strength.
+**Round 1 — Strange Omens:** Slaves to Darkness caught the Skaven scouting party among the ruins and broke them, their Warriors earning Favoured status in the crush. Among the wreckage, the Chaos champion pries a shard of warm black glass from a dead rival's fist — the **Fragment of the Seal** — and it hasn't stopped whispering directions since. Helsmiths of Hashut sat this round out, banking their strength.
 
-**Next — Round 2: The Search Begins:** The fragment's whisper leads down, to a vault-city sunk beneath the wastes — the buried archive of whoever built the prison in the first place. Skaven and Horns of Hashut collide over it this round: one side has to break in and carry the records out through the ash before the other seals every road home. Slaves to Darkness sits this one out, fragment in hand, waiting to see what the vaults give up.
+**Next — Round 2: The Search Begins:** The fragment's whisper leads down, to a vault-city sunk beneath the wastes — the buried archive of whoever built the prison in the first place. Skaven and Helsmiths of Hashut collide over it this round: one side has to break in and carry the records out through the ash before the other seals every road home. Slaves to Darkness sits this one out, fragment in hand, waiting to see what the vaults give up.
 
 ## Finale Trigger
 
@@ -98,4 +102,4 @@ At the end of every battle round from Round 3 onward, roll D6 + 1 per ritual rew
 
 ---
 
-Hero rosters and army tracking sheets: [[Stats]]. Print a fresh [[Battle Tracking Sheet]] before each game.
+Hero rosters and army tracking sheets: [[Stats]].
